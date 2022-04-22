@@ -1,2 +1,2 @@
-# cart-o-nubank
-tentando fazer alguma coisa da via 
+cartão da nubank
+aprendendo ainda 
